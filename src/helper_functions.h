@@ -19,6 +19,10 @@
 const double M_PI = 3.14159265358979323846;
 #endif
 
+#ifndef M_SQRT2
+const double M_SQRT2 = 1.41421356237309504880;
+#endif
+
 /*
  * Struct representing one position/control measurement.
  */
